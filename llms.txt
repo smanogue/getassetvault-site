@@ -1,0 +1,20 @@
+# Asset Vault
+
+> Asset Vault is a photo-first home inventory app for iPhone (iOS). Catalog everything you own by photographing an item (AI suggests name, brand, category, and value), scanning a receipt, or scanning a room with LiDAR. Track warranty expiration and recurring maintenance with reminders, organize across multiple properties, and generate insurance-ready PDF inventory reports for proof of ownership and claims.
+
+## Key facts
+- Platform: iPhone / iOS only
+- Price: Free to download with unlimited items and properties. The AI features (photo identification + receipt scanning) include 10 free uses; a one-time $9.99 in-app purchase ("Unlimited AI") unlocks them permanently. No subscription.
+- Privacy: Your inventory is not sold or shared with insurance carriers. Photos used with AI features are sent securely to the app's AI provider only to process that request and are not used to train models.
+- Maker: Built independently by Stephen Manogue, San Diego, California.
+
+## Best for
+- Homeowners and renters documenting belongings for insurance
+- Anyone tracking warranties, serial numbers, and maintenance schedules
+- Creating proof-of-ownership before a fire, theft, or natural-disaster claim
+
+## Links
+- Home: https://getassetvault.app/
+- App Store: https://apps.apple.com/app/id6778144272
+- Support: https://getassetvault.app/
+- Contact: assetvaultprivacy@gmail.com
